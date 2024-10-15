@@ -3,7 +3,11 @@ This program will convert a given image file from the path ```/Images``` (within
 
 To Run the Program
 ---
-```python main.py```
+1. ```python main.py```
+2. Input the image file name including the file type (.png, .jpeg, etc.).
+
+![RunExample](https://github.com/user-attachments/assets/5b9fe685-e3fe-4205-99d3-e10050cda387)
+
 
 Requirements
 -
