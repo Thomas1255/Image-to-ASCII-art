@@ -11,7 +11,7 @@ To Run the Program
 
 Requirements
 -
-* Python 3.11+
+* Python 3.11+ installed
 * OpenCV library installed
 * A file that holds the image files named ```Images``` within the same directory as the main.py file
 
